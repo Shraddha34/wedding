@@ -8,6 +8,7 @@ margin-bottom: 40px;
 animation-name: shraddha1;
 animation-duration: 4s;
 animation-iteration-count:5sec;
+    text-aling:end;
 }
 @keyframes shraddha1{
   50% {transform: scale(1.0);}
